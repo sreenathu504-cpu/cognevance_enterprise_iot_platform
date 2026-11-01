@@ -51,7 +51,7 @@ Use deep sleep (`esp_deep_sleep_start()`) and a longer publish interval to reduc
 ## Screenshots
 
 
-![Circuit](CHANGE-THIS-TO-YOUR-IMAGE-NAME.jpg)
+![Circuit](IMG-20261101-WA0013.jpg)
 
 
 
